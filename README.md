@@ -6,7 +6,7 @@
 A Java-based journaling application with real-time weather integration and AI-powered sentiment analysis.
 
 > 🎓 **Course Project**: Fundamentals of Programming (FOP)  
-> 👥 **Team**: Adzkania & Team  
+> 👥 **Team**: Adzkania & Keertti  
 > 📅 **Semester**: 1, 2024/2025
 
 ---
